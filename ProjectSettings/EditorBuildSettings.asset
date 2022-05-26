@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Periodic_Table.unity
+    guid: 6c7dcd0880cbe3c40a75e1baa8ebb5cf
+  - enabled: 1
+    path: Assets/Scenes/hydrogen.unity
+    guid: 4b47017b676f94747a98b2edc634911d
+  - enabled: 1
+    path: Assets/Scenes/Carbon.unity
+    guid: 482180891295a47f5a420dd41f925b2d
   m_configObjects: {}
