@@ -9,9 +9,27 @@ EditorBuildSettings:
     path: Assets/Scenes/Periodic_Table.unity
     guid: 6c7dcd0880cbe3c40a75e1baa8ebb5cf
   - enabled: 1
-    path: Assets/Scenes/hydrogen.unity
+    path: Assets/Scenes/Elements/Hydrogen.unity
     guid: 4b47017b676f94747a98b2edc634911d
   - enabled: 1
     path: Assets/Scenes/Carbon.unity
     guid: 482180891295a47f5a420dd41f925b2d
+  - enabled: 1
+    path: Assets/Scenes/Elements/Lithium.unity
+    guid: e25e2f4b90050614cb8f05011716e2b0
+  - enabled: 1
+    path: Assets/Scenes/Elements/Sodium.unity
+    guid: eea62bce17db62744a118d72efe18a6a
+  - enabled: 1
+    path: Assets/Scenes/Elements/Rubidium.unity
+    guid: 70f8d059763a52842afd050cf968c468
+  - enabled: 1
+    path: Assets/Scenes/Elements/Potassium.unity
+    guid: 70d0a032202ee0d458dec048d2f8ecf4
+  - enabled: 1
+    path: Assets/Scenes/Elements/Francium.unity
+    guid: 895a23984cade2b47b039e454cd621d1
+  - enabled: 1
+    path: Assets/Scenes/Elements/Cesium.unity
+    guid: 25fe7e2ea39e5a947a5329dff8cac251
   m_configObjects: {}

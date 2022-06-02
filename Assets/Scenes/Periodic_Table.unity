@@ -2723,7 +2723,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: hydrogen
+          m_StringArgument: Francium
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &205266110
@@ -7543,7 +7543,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 627419186}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1318499894}
+        m_TargetAssemblyTypeName: ChangeScene, Assembly-CSharp
+        m_MethodName: LoadScene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Sodium
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &627419186
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11634,7 +11646,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 948782482}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1318499894}
+        m_TargetAssemblyTypeName: ChangeScene, Assembly-CSharp
+        m_MethodName: LoadScene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Lithium
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &948782482
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15436,7 +15460,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: hydrogen
+          m_StringArgument: Hydrogen
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1312449424
@@ -20345,7 +20369,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1635571270}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1318499894}
+        m_TargetAssemblyTypeName: ChangeScene, Assembly-CSharp
+        m_MethodName: LoadScene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Potassium
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1635571270
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22939,7 +22975,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: hydrogen
+          m_StringArgument: Rubidium
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1877196248
@@ -24464,7 +24500,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: hydrogen
+          m_StringArgument: Cesium
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &2004070126
