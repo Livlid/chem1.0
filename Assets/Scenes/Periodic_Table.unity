@@ -271,7 +271,7 @@ GameObject:
   - component: {fileID: 15991079}
   - component: {fileID: 15991078}
   m_Layer: 5
-  m_Name: Strontium
+  m_Name: Molybdenum
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -405,7 +405,7 @@ GameObject:
   - component: {fileID: 39773386}
   - component: {fileID: 39773385}
   m_Layer: 5
-  m_Name: Calcium
+  m_Name: Iron
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -810,7 +810,7 @@ GameObject:
   - component: {fileID: 77289379}
   - component: {fileID: 77289378}
   m_Layer: 5
-  m_Name: Barium
+  m_Name: Iridium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1524,7 +1524,7 @@ GameObject:
   - component: {fileID: 138814047}
   - component: {fileID: 138814046}
   m_Layer: 5
-  m_Name: Barium
+  m_Name: Tungsten
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1658,7 +1658,7 @@ GameObject:
   - component: {fileID: 147330104}
   - component: {fileID: 147330103}
   m_Layer: 5
-  m_Name: Calcium
+  m_Name: Vanadium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1792,7 +1792,7 @@ GameObject:
   - component: {fileID: 158552678}
   - component: {fileID: 158552677}
   m_Layer: 5
-  m_Name: Radium
+  m_Name: Moscovium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2509,7 +2509,7 @@ GameObject:
   - component: {fileID: 203298065}
   - component: {fileID: 203298064}
   m_Layer: 5
-  m_Name: Strontium
+  m_Name: Niobium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2777,7 +2777,7 @@ GameObject:
   - component: {fileID: 207503574}
   - component: {fileID: 207503573}
   m_Layer: 5
-  m_Name: Radium
+  m_Name: Nihonium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3046,7 +3046,7 @@ GameObject:
   - component: {fileID: 232103125}
   - component: {fileID: 232103124}
   m_Layer: 5
-  m_Name: Radium
+  m_Name: Dubnium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3180,7 +3180,7 @@ GameObject:
   - component: {fileID: 233003985}
   - component: {fileID: 233003984}
   m_Layer: 5
-  m_Name: Calcium
+  m_Name: Copper
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3314,7 +3314,7 @@ GameObject:
   - component: {fileID: 236333719}
   - component: {fileID: 236333718}
   m_Layer: 5
-  m_Name: Barium
+  m_Name: Platinum
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3583,7 +3583,7 @@ GameObject:
   - component: {fileID: 275424451}
   - component: {fileID: 275424450}
   m_Layer: 5
-  m_Name: Radium
+  m_Name: Roentgenium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3852,7 +3852,7 @@ GameObject:
   - component: {fileID: 293209595}
   - component: {fileID: 293209594}
   m_Layer: 5
-  m_Name: Strontium
+  m_Name: Ruthenium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3986,7 +3986,7 @@ GameObject:
   - component: {fileID: 298073456}
   - component: {fileID: 298073455}
   m_Layer: 5
-  m_Name: Strontium
+  m_Name: Technetium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4525,7 +4525,7 @@ GameObject:
   - component: {fileID: 333957798}
   - component: {fileID: 333957797}
   m_Layer: 5
-  m_Name: Strontium
+  m_Name: Palladium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5995,7 +5995,7 @@ GameObject:
   - component: {fileID: 530364761}
   - component: {fileID: 530364760}
   m_Layer: 5
-  m_Name: Calcium
+  m_Name: Gallium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6399,7 +6399,7 @@ GameObject:
   - component: {fileID: 545996659}
   - component: {fileID: 545996658}
   m_Layer: 5
-  m_Name: Radium
+  m_Name: Meitnerium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6801,7 +6801,7 @@ GameObject:
   - component: {fileID: 554040754}
   - component: {fileID: 554040753}
   m_Layer: 5
-  m_Name: Radium
+  m_Name: Bohrium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6935,7 +6935,7 @@ GameObject:
   - component: {fileID: 575054154}
   - component: {fileID: 575054153}
   m_Layer: 5
-  m_Name: Strontium
+  m_Name: Cadmium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7069,7 +7069,7 @@ GameObject:
   - component: {fileID: 575256587}
   - component: {fileID: 575256586}
   m_Layer: 5
-  m_Name: Barium
+  m_Name: Mercury
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7729,7 +7729,7 @@ GameObject:
   - component: {fileID: 649639328}
   - component: {fileID: 649639327}
   m_Layer: 5
-  m_Name: Barium
+  m_Name: Rhenium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8537,7 +8537,7 @@ GameObject:
   - component: {fileID: 703836168}
   - component: {fileID: 703836167}
   m_Layer: 5
-  m_Name: Barium
+  m_Name: Hafnium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9425,7 +9425,7 @@ GameObject:
   - component: {fileID: 781017436}
   - component: {fileID: 781017435}
   m_Layer: 5
-  m_Name: Calcium
+  m_Name: Zinc
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9559,7 +9559,7 @@ GameObject:
   - component: {fileID: 795648710}
   - component: {fileID: 795648709}
   m_Layer: 5
-  m_Name: Barium
+  m_Name: Osmium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10042,7 +10042,7 @@ GameObject:
   - component: {fileID: 809766915}
   - component: {fileID: 809766914}
   m_Layer: 5
-  m_Name: Radium
+  m_Name: Flerovium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10176,7 +10176,7 @@ GameObject:
   - component: {fileID: 820666449}
   - component: {fileID: 820666448}
   m_Layer: 5
-  m_Name: Calcium
+  m_Name: Manganese
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10310,7 +10310,7 @@ GameObject:
   - component: {fileID: 845420582}
   - component: {fileID: 845420581}
   m_Layer: 5
-  m_Name: Beryllium
+  m_Name: Boron
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10624,7 +10624,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Sr
+  m_text: Rh
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -11026,7 +11026,7 @@ GameObject:
   - component: {fileID: 901991508}
   - component: {fileID: 901991507}
   m_Layer: 5
-  m_Name: Beryllium
+  m_Name: Nitrogen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11160,7 +11160,7 @@ GameObject:
   - component: {fileID: 908306643}
   - component: {fileID: 908306642}
   m_Layer: 5
-  m_Name: Calcium
+  m_Name: Cobalt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12269,7 +12269,7 @@ GameObject:
   - component: {fileID: 995139962}
   - component: {fileID: 995139961}
   m_Layer: 5
-  m_Name: Radium
+  m_Name: Rutherfordium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13255,7 +13255,7 @@ GameObject:
   - component: {fileID: 1068357041}
   - component: {fileID: 1068357040}
   m_Layer: 5
-  m_Name: Strontium
+  m_Name: Silver
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13834,7 +13834,7 @@ GameObject:
   - component: {fileID: 1178357163}
   - component: {fileID: 1178357162}
   m_Layer: 5
-  m_Name: Barium
+  m_Name: Gold
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14779,7 +14779,7 @@ GameObject:
   - component: {fileID: 1248854718}
   - component: {fileID: 1248854717}
   m_Layer: 5
-  m_Name: Strontium
+  m_Name: Rhodium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14913,7 +14913,7 @@ GameObject:
   - component: {fileID: 1249408468}
   - component: {fileID: 1249408467}
   m_Layer: 5
-  m_Name: Calcium
+  m_Name: Germanium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15182,7 +15182,7 @@ GameObject:
   - component: {fileID: 1287904350}
   - component: {fileID: 1287904349}
   m_Layer: 5
-  m_Name: Barium
+  m_Name: Tantalum
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16302,7 +16302,7 @@ GameObject:
   - component: {fileID: 1394069751}
   - component: {fileID: 1394069750}
   m_Layer: 5
-  m_Name: Barium
+  m_Name: Lead
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17376,7 +17376,7 @@ GameObject:
   - component: {fileID: 1434121890}
   - component: {fileID: 1434121889}
   m_Layer: 5
-  m_Name: Magnesium
+  m_Name: Phosphorus
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17510,7 +17510,7 @@ GameObject:
   - component: {fileID: 1434151945}
   - component: {fileID: 1434151944}
   m_Layer: 5
-  m_Name: Magnesium
+  m_Name: Aluminum
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17644,7 +17644,7 @@ GameObject:
   - component: {fileID: 1438914066}
   - component: {fileID: 1438914065}
   m_Layer: 5
-  m_Name: Radium
+  m_Name: Seaborgium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17912,7 +17912,7 @@ GameObject:
   - component: {fileID: 1458812853}
   - component: {fileID: 1458812852}
   m_Layer: 5
-  m_Name: Barium
+  m_Name: Bismuth
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18491,7 +18491,7 @@ GameObject:
   - component: {fileID: 1482857818}
   - component: {fileID: 1482857817}
   m_Layer: 5
-  m_Name: Radium
+  m_Name: Copernicium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19216,7 +19216,7 @@ GameObject:
   - component: {fileID: 1537721117}
   - component: {fileID: 1537721116}
   m_Layer: 5
-  m_Name: Calcium
+  m_Name: Arsenic
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20531,7 +20531,7 @@ GameObject:
   - component: {fileID: 1652031060}
   - component: {fileID: 1652031059}
   m_Layer: 5
-  m_Name: Strontium
+  m_Name: Antimony
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21111,7 +21111,7 @@ GameObject:
   - component: {fileID: 1730922392}
   - component: {fileID: 1730922391}
   m_Layer: 5
-  m_Name: Strontium
+  m_Name: Zirconium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21290,7 +21290,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Rh
+  m_text: Co
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -21514,7 +21514,7 @@ GameObject:
   - component: {fileID: 1772729852}
   - component: {fileID: 1772729851}
   m_Layer: 5
-  m_Name: Radium
+  m_Name: Darmstadium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21918,7 +21918,7 @@ GameObject:
   - component: {fileID: 1805599171}
   - component: {fileID: 1805599170}
   m_Layer: 5
-  m_Name: Strontium
+  m_Name: Tin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22092,7 +22092,7 @@ GameObject:
   - component: {fileID: 1816970267}
   - component: {fileID: 1816970266}
   m_Layer: 5
-  m_Name: Calcium
+  m_Name: Chromium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23711,7 +23711,7 @@ GameObject:
   - component: {fileID: 1965246111}
   - component: {fileID: 1965246110}
   m_Layer: 5
-  m_Name: Calcium
+  m_Name: Nickel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23845,7 +23845,7 @@ GameObject:
   - component: {fileID: 1971729113}
   - component: {fileID: 1971729112}
   m_Layer: 5
-  m_Name: Strontium
+  m_Name: Indium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25191,7 +25191,7 @@ GameObject:
   - component: {fileID: 2084695519}
   - component: {fileID: 2084695518}
   m_Layer: 5
-  m_Name: Magnesium
+  m_Name: Silicon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25325,7 +25325,7 @@ GameObject:
   - component: {fileID: 2115860111}
   - component: {fileID: 2115860110}
   m_Layer: 5
-  m_Name: Beryllium
+  m_Name: Carbon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25526,7 +25526,7 @@ GameObject:
   - component: {fileID: 2122534142}
   - component: {fileID: 2122534141}
   m_Layer: 5
-  m_Name: Barium
+  m_Name: Thallium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25795,7 +25795,7 @@ GameObject:
   - component: {fileID: 2132224064}
   - component: {fileID: 2132224063}
   m_Layer: 5
-  m_Name: Radium
+  m_Name: Hassium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
