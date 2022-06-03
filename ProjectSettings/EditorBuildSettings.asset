@@ -6,14 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Periodic_Table.unity
+    path: Assets/Scenes/Elements/Periodic_Table.unity
     guid: 6c7dcd0880cbe3c40a75e1baa8ebb5cf
   - enabled: 1
     path: Assets/Scenes/Elements/Hydrogen.unity
     guid: 4b47017b676f94747a98b2edc634911d
-  - enabled: 1
-    path: Assets/Scenes/Carbon.unity
-    guid: 482180891295a47f5a420dd41f925b2d
   - enabled: 1
     path: Assets/Scenes/Elements/Lithium.unity
     guid: e25e2f4b90050614cb8f05011716e2b0
@@ -32,4 +29,253 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Elements/Cesium.unity
     guid: 25fe7e2ea39e5a947a5329dff8cac251
+  - enabled: 1
+    path: Assets/Scenes/Elements/Strontium.unity
+    guid: fbaf06c9afd88e04bb16fc115273a85f
+  - enabled: 1
+    path: Assets/Scenes/Elements/Radium.unity
+    guid: 6bb53c4b3e26f1a478da241f4133f5bb
+  - enabled: 1
+    path: Assets/Scenes/Elements/Magnesium.unity
+    guid: 265786bc09ed6334ba1223c88ccf74c2
+  - enabled: 1
+    path: Assets/Scenes/Elements/Calcium.unity
+    guid: 4b98f16b109bcde45be3edd14e480971
+  - enabled: 1
+    path: Assets/Scenes/Elements/Beryllium.unity
+    guid: dd2c72f57a3dc084da1333d37052b45a
+  - enabled: 1
+    path: Assets/Scenes/Elements/Barium.unity
+    guid: 3cb061b4ed481d249921d1888558023c
+  - enabled: 1
+    path: Assets/Scenes/Elements/Yttrium.unity
+    guid: 0f1a2d4e2b893334d9ca0c7635e6e68f
+  - enabled: 1
+    path: Assets/Scenes/Elements/Scandium.unity
+    guid: c5c86193430e32046945afb5b6e68298
+  - enabled: 1
+    path: Assets/Scenes/Elements/Lanthanum.unity
+    guid: 4ea6e630e0b92814980e7be513e7a273
+  - enabled: 1
+    path: Assets/Scenes/Elements/Actinium.unity
+    guid: 9821ba148c9c46c4ba509dab55fe6862
+  - enabled: 1
+    path: Assets/Scenes/Elements/Zirconium.unity
+    guid: be49cfa249fc3d043a3458dd57a0c3ac
+  - enabled: 1
+    path: Assets/Scenes/Elements/Zinc.unity
+    guid: 56d5a23c016bd5742aba53c585ed417a
+  - enabled: 1
+    path: Assets/Scenes/Elements/Xenon.unity
+    guid: 9c0968fbaf58e5f4fb4c97fde62c48fa
+  - enabled: 1
+    path: Assets/Scenes/Elements/Vanadium.unity
+    guid: cfbc260e72e8f664db337d82f38be7e9
+  - enabled: 1
+    path: Assets/Scenes/Elements/Tungsten.unity
+    guid: d03237ae75919a14b9b692441aa97604
+  - enabled: 1
+    path: Assets/Scenes/Elements/Titanium.unity
+    guid: 03ae2df43d1ea9c49a9c8a794218d6b8
+  - enabled: 1
+    path: Assets/Scenes/Elements/Tin.unity
+    guid: 34e2c325ee642234a95bb67c3bd98efe
+  - enabled: 1
+    path: Assets/Scenes/Elements/Thallium.unity
+    guid: 2a7049411ab74fb44b3910661b45be0d
+  - enabled: 1
+    path: Assets/Scenes/Elements/Tennessine.unity
+    guid: c7df503cb6063654ba823b15c9646e41
+  - enabled: 1
+    path: Assets/Scenes/Elements/Tellurium.unity
+    guid: a64badf453806e74b859e06d078f50ce
+  - enabled: 1
+    path: Assets/Scenes/Elements/Technetium.unity
+    guid: d83d3dfb7394d2240b4f46e28886a01c
+  - enabled: 1
+    path: Assets/Scenes/Elements/Tantalum.unity
+    guid: 2a377195fc1f18a4f9a9ca629f357cfc
+  - enabled: 1
+    path: Assets/Scenes/Elements/Sulfur.unity
+    guid: 279345420db28f641900b3aa1f70a48e
+  - enabled: 1
+    path: Assets/Scenes/Elements/Silver.unity
+    guid: bcf529b6afa9603488d957b66683df15
+  - enabled: 1
+    path: Assets/Scenes/Elements/Silicon.unity
+    guid: 30973e4e672707843b35c6074a8d4607
+  - enabled: 1
+    path: Assets/Scenes/Elements/Selenium.unity
+    guid: 618279952ea751d42afb8658298a7f55
+  - enabled: 1
+    path: Assets/Scenes/Elements/Seaborgium.unity
+    guid: 1fedc9e0461fd544eadb080cea071d92
+  - enabled: 1
+    path: Assets/Scenes/Elements/Rutherfordium.unity
+    guid: 1a2692fc224efe14aaa5e8f90112dbad
+  - enabled: 1
+    path: Assets/Scenes/Elements/Ruthenium.unity
+    guid: fbee05c7fafba384e9a7605915604b1d
+  - enabled: 1
+    path: Assets/Scenes/Elements/Roentgenium.unity
+    guid: e542e8356a06e964a96418c218d8e04a
+  - enabled: 1
+    path: Assets/Scenes/Elements/Rhodium.unity
+    guid: 52cfc0d1b1f414e4da0a8d62f360a41d
+  - enabled: 1
+    path: Assets/Scenes/Elements/Rhenium.unity
+    guid: c930c3348d15208499fa11a7b3efa6e1
+  - enabled: 1
+    path: Assets/Scenes/Elements/Radon.unity
+    guid: dacedfc6bd00a864ba325d42586027c1
+  - enabled: 1
+    path: Assets/Scenes/Elements/Polonium.unity
+    guid: cc4f825a5babb434aa219074195721e8
+  - enabled: 1
+    path: Assets/Scenes/Elements/Platinum.unity
+    guid: f958600b47c9f684ca3e0f4954e1e815
+  - enabled: 1
+    path: Assets/Scenes/Elements/Phosphorus.unity
+    guid: 9a40e50148b15c749a936a2d80453d85
+  - enabled: 1
+    path: Assets/Scenes/Elements/Palladium.unity
+    guid: 3b0cf7b47ff8264439562e33b75e50a7
+  - enabled: 1
+    path: Assets/Scenes/Elements/Oxygen.unity
+    guid: e8bbba17e7d662441bb5b99677319f7b
+  - enabled: 1
+    path: Assets/Scenes/Elements/Osmium.unity
+    guid: 2f7070b2a9c00ee47a40c209ded7d23b
+  - enabled: 1
+    path: Assets/Scenes/Elements/Oganesson.unity
+    guid: 4444c453656d72b489c4f1d4ac6b087e
+  - enabled: 1
+    path: Assets/Scenes/Elements/NItrogen.unity
+    guid: 2d45a2880face7b4885910599aa7bcfb
+  - enabled: 1
+    path: Assets/Scenes/Elements/Niobium.unity
+    guid: a2e52d9da0e960e46910b3952f163684
+  - enabled: 1
+    path: Assets/Scenes/Elements/Nihonium.unity
+    guid: cefb60c364016824ca0f975f1a4a1e0d
+  - enabled: 1
+    path: Assets/Scenes/Elements/Nickel.unity
+    guid: e03b12e86b643de4082796018b3cc092
+  - enabled: 1
+    path: Assets/Scenes/Elements/Neon.unity
+    guid: 02c009031d47de040bb8ddfb4108493e
+  - enabled: 1
+    path: Assets/Scenes/Elements/Moscovium.unity
+    guid: 3e00f43c74d009e4f86e68f061f86255
+  - enabled: 1
+    path: Assets/Scenes/Elements/Molybdenum.unity
+    guid: 498c3803fc2f2e3428dd86941b53dd21
+  - enabled: 1
+    path: Assets/Scenes/Elements/Mercury.unity
+    guid: 311fef88c7540884596184bf4fb6b17d
+  - enabled: 1
+    path: Assets/Scenes/Elements/Meitnerium.unity
+    guid: bccbf583b7ef4ee459c65fe63a2fabbf
+  - enabled: 1
+    path: Assets/Scenes/Elements/Manganese.unity
+    guid: 7fb139188aa167b45a54eb9ad38fa8fc
+  - enabled: 1
+    path: Assets/Scenes/Elements/Livermorium.unity
+    guid: 6c700e496ece99e43aa8eae22aa06768
+  - enabled: 1
+    path: Assets/Scenes/Elements/Lead.unity
+    guid: f2c0f102e55b18a4e8b52782a8b932f7
+  - enabled: 1
+    path: Assets/Scenes/Elements/Krypton.unity
+    guid: ba144af9b99bce144bfea93293753fd0
+  - enabled: 1
+    path: Assets/Scenes/Elements/Iron.unity
+    guid: 2e27f44f9ec544348bbe0b66f15c0b2e
+  - enabled: 1
+    path: Assets/Scenes/Elements/Iridium.unity
+    guid: 9eeb33ea4b4f5214ebf717023b9f40f0
+  - enabled: 1
+    path: Assets/Scenes/Elements/Iodine.unity
+    guid: 1d2c58d594ae42a4c9e36fdbb8faa5a3
+  - enabled: 1
+    path: Assets/Scenes/Elements/Indium.unity
+    guid: 4aa57efce60cf8d48b3c9a441599a008
+  - enabled: 1
+    path: Assets/Scenes/Elements/Helium.unity
+    guid: a3f361b54bd92754e8d2873d4446ccab
+  - enabled: 1
+    path: Assets/Scenes/Elements/Hassium.unity
+    guid: ba3576d9fe23dd84b8c6c385dcb76940
+  - enabled: 1
+    path: Assets/Scenes/Elements/Hafnium.unity
+    guid: 394822ad3e86f184bbe4b94920b77159
+  - enabled: 1
+    path: Assets/Scenes/Elements/Gold.unity
+    guid: 12084b71ebc76224087b96de845eb253
+  - enabled: 1
+    path: Assets/Scenes/Elements/Germanium.unity
+    guid: 6f46269311cdf384eb4c501df2c430b5
+  - enabled: 1
+    path: Assets/Scenes/Elements/Gallium.unity
+    guid: 20e17924a22a83f4eb75c92d4ed2e8a3
+  - enabled: 1
+    path: Assets/Scenes/Elements/Fluorine.unity
+    guid: 983b18aa4728ad548a9c28a3056df0cd
+  - enabled: 1
+    path: Assets/Scenes/Elements/Flerovium.unity
+    guid: e17946bd9aabdb34f88e5b6974cb3718
+  - enabled: 1
+    path: Assets/Scenes/Elements/Dubnium.unity
+    guid: 7f62929ebbfdf9a4885daa80e2cc9a00
+  - enabled: 1
+    path: Assets/Scenes/Elements/Copper.unity
+    guid: 229e0ad6e7d2105449cc2a20b89df8a7
+  - enabled: 1
+    path: Assets/Scenes/Elements/Copernicium.unity
+    guid: e3abec60e4281604b9a0f4dda2de0944
+  - enabled: 1
+    path: Assets/Scenes/Elements/Cobalt.unity
+    guid: 25a3aca989ceeaa42b0cf22935897909
+  - enabled: 1
+    path: Assets/Scenes/Elements/Chromium.unity
+    guid: bd8df6d4ecd9b7248b4078d41b9035bb
+  - enabled: 1
+    path: Assets/Scenes/Elements/Chlorine.unity
+    guid: 296bfb44db0f961479f2d430ae241966
+  - enabled: 1
+    path: Assets/Scenes/Elements/Carbon.unity
+    guid: 0186891efe6f7954cba4e4e117825963
+  - enabled: 1
+    path: Assets/Scenes/Elements/Cadmium.unity
+    guid: ed1076edb720f9a40a4ee1b71069c44f
+  - enabled: 1
+    path: Assets/Scenes/Elements/Bromine.unity
+    guid: 666f4d4510f5189429bf2ebcb27a5033
+  - enabled: 1
+    path: Assets/Scenes/Elements/Boron.unity
+    guid: 2668552990e92c14c8b615715644aae3
+  - enabled: 1
+    path: Assets/Scenes/Elements/Bohrium.unity
+    guid: 07010c569922be74cb6b39970fd09ec0
+  - enabled: 1
+    path: Assets/Scenes/Elements/Bismuth.unity
+    guid: 85807f34969d24b4197b0c1934b0f37a
+  - enabled: 1
+    path: Assets/Scenes/Elements/Arsenic.unity
+    guid: 06e897062af16df428d00f92392dc5f8
+  - enabled: 1
+    path: Assets/Scenes/Elements/Argon.unity
+    guid: 16d7bc0662e605b4fa58aa8ab0fbb4d3
+  - enabled: 1
+    path: Assets/Scenes/Elements/Antimony.unity
+    guid: 18ec09afd65b7e94f86f47f329d2aa01
+  - enabled: 1
+    path: Assets/Scenes/Elements/Aluminum.unity
+    guid: af4522110eead934a8e0c64a3758c060
+  - enabled: 1
+    path: Assets/Scenes/Elements/Darmstadtium.unity
+    guid: 30bcf3423b523cc4cb0d191d31b5f46d
+  - enabled: 1
+    path: Assets/Scenes/Elements/Astatine.unity
+    guid: f248039dea1607640855154316aff63b
   m_configObjects: {}
