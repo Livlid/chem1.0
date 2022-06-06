@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Elements/Periodic_Table.unity
+    path: Assets/Scenes/Periodic_Table.unity
     guid: 6c7dcd0880cbe3c40a75e1baa8ebb5cf
   - enabled: 1
     path: Assets/Scenes/Elements/Hydrogen.unity
