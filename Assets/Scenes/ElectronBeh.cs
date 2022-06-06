@@ -13,6 +13,6 @@ public class ElectronBeh : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Rotate(1.5f, 0.1f, 0);
+        transform.Rotate(0.5f, 0.1f, 0);
     }
 }
