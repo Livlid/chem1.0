@@ -1557,6 +1557,7 @@ GameObject:
   - component: {fileID: 1134351931}
   - component: {fileID: 1134351930}
   - component: {fileID: 1134351929}
+  - component: {fileID: 1134351934}
   m_Layer: 0
   m_Name: Electron
   m_TagString: Untagged
@@ -1571,7 +1572,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1134351928}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a280cd635bd275c47bb39ad10c41b3fd, type: 3}
   m_Name: 
@@ -1660,6 +1661,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 89.671, y: 69.902, z: -20.109}
+--- !u!114 &1134351934
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1134351928}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 381ca87409e243240934486aeade694d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1211781258
 GameObject:
   m_ObjectHideFlags: 0
